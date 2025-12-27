@@ -96,7 +96,6 @@
         android:text="@string/haveaccount"
         android:textAllCaps="true"
         android:textSize="17sp"
-        android:textStyle="bold"
         android:textColor="@color/black"
         />
 </LinearLayout>
